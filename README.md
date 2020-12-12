@@ -7,7 +7,11 @@ Rula Abu Affar
 Sirlene Andreis 
 Pamela Neh Ambe 
 Sarah Parsons 
+
+
 Under supervision of Dr. Muhammad Iqbal
+
+
 We built 4 Machine Learning models based in a Cardio dataset, models used are:
 Decision Tree Classifier
 Logistic Regression
