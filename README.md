@@ -1,5 +1,6 @@
 # Cardio-disease-ML-GroupProject
  ❤️ Cardio Disease  group project as part of Machine Learning subject in the HD in Science in Data Analysis for Business.
+ The project can be view in this link: https://nbviewer.jupyter.org/github/AndreisSirlene/Cardio-disease-ML-GroupProject/blob/main/CardioDiseasePrediction.ipynb
 
 Machine Learning Project – Heart Disease Prediction
 📓 Group members:
